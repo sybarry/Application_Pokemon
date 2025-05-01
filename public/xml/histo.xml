@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE operations SYSTEM "histo.dtd">
+<operations>
+    <operation>
+        <type>other</type>
+        <horodate>2022-11-29 16:13:46</horodate>
+        <desc>Création du fichier XML</desc>
+    </operation>
+</operations>
